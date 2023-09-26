@@ -7,7 +7,7 @@ Je m'intéresse au développement web et je suis passionné par les technologies
 Mon principal domaine d'intérêt est le développement web. J'aime travailler sur la création et l'amélioration de sites web attrayants et fonctionnels qui répondent aux besoins des utilisateurs. Je suis constamment à la recherche de nouvelles technologies et de tendances pour rester à jour dans cet univers en constante évolution. 🚀🔧
 
 ## Mon parcours d'apprentissage 📚
-Actuellement, je me concentre sur l'apprentissage de JavaScript et de la bibliothèque REACT. Je crois que ces technologies sont essentielles pour construire des applications web modernes et dynamiques. J'explore également les meilleures pratiques de développement et je travaille sur des projets personnels pour mettre en pratique mes connaissances nouvellement acquises. 📖💻
+Actuellement, je me concentre sur l'apprentissage de JavaScript, de la bibliothèque REACT mais aussi sur le Dart et Flutter. Je crois que ces technologies sont essentielles pour construire des applications web modernes et dynamiques. J'explore également les meilleures pratiques de développement et je travaille sur des projets personnels pour mettre en pratique mes connaissances nouvellement acquises. 📖💻
 
 ## Collaboration 👥
 Je suis ouvert à la collaboration sur des projets intéressants liés au développement web. Si vous partagez des intérêts similaires et que vous cherchez un collaborateur passionné, n'hésitez pas à me contacter. 🤝🌐
